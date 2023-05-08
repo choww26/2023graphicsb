@@ -30,3 +30,20 @@
 	<GL/glut.h>
 	"glm.h"
 
+1683519499 source:c:\users\jamie\onedrive\орн▒\week10-1_glm_gundam\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1683525839 c:\users\jamie\onedrive\орн▒\week10-1_glm_gundam\glm.h
+	<GL/glut.h>
+
+1683519499 source:c:\users\jamie\onedrive\орн▒\week10-1_glm_gundam\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	"glm.h"
+
