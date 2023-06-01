@@ -17,10 +17,9 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1685604462 source:c:\users\administrator\desktop\2023graphicsb\week16_all\main.cpp
+1685605188 source:c:\users\administrator\desktop\2023graphicsb\week16_all\main.cpp
 	<opencv/highgui.h>
 	<opencv/cv.h>
-	<GL/glut.h>
 	<stdio.h>
 	<GL/glut.h>
 	"glm.h"
