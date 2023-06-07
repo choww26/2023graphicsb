@@ -28,7 +28,7 @@ void display()
 }
 void mouse(int button, int state, int x, int y)
 {
-    if(state==GLLUT_DOWN){
+    if(state==GLUT_DOWN){
         oldX = x;
         oldY = y;
     }
